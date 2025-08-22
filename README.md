@@ -1,10 +1,6 @@
 # VisionFusion-Face-Aware-AI-Editing
 An AI-powered image composition pipeline using Gemini, InsightFace, GFPGAN, and RealESRGAN. It preserves facial identity while placing a source person into target scenes with prompts, restoring details and enhancing quality for photorealistic results.
 
-  
-
-An AI-powered image composition pipeline using **Google Gemini**, **InsightFace**, **GFPGAN**, and **RealESRGAN**.  
-This project preserves facial identity while placing a source person into target scenes with prompts, restoring details, and enhancing quality for photorealistic results.  
 
 ### Note: This project is developed **for academic research purposes only** and is **not intended for commercial use**.  
 
